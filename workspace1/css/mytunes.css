@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+body{
+    margin:0px;
+    font-family: 'PT Sans', sans-serif;
+    /* width: 100%; */
+}
+#d1{
+    border:1px solid black;
+    height: 33px;
+    width: 100vw;
+    display: flex;
+    justify-content:left ;
+    gap: 50px;
+    line-height: 30px;
+    padding-left: 25px;
+    background-color: #333333;
+    color: #EEEEEE;
+    position: fixed;
+   margin-top: -33px;
+}
+.sec1:hover{
+   
+   height: 35px;
+    background-color:#444;
+    width: 80px;
+    text-align: center;
+    position: static;
+}
+a{
+    color: #EEEEEE;
+    text-decoration: none;
+    }
+#h1{
+    color: #EEEEEE;
+    text-align: center;
+    line-height: 450px;
+    font-size:50px;
+}
+#h2{
+    color: #EEEEEE;
+    text-align: center;
+    margin-top: -15%;
+}
+#p1{
+    color: #EEEEEE;
+    text-align: center;
+    font-size:1.2rem;
+    line-height: 35px;
+}
+#img1{
+     background-image: url(../html/APJ/images/showcase.jpeg);
+     background-repeat: no-repeat;
+     height: 100vh;
+     width: 100%;
+     background-position: center;
+     background-size: cover;
+  }
+  #d2{
+    margin-top: -28px;
+    height: 185vh;
+    width: 100%;
+    background-color: #252529;
+  }
+  #h3{
+    color: #EEEEEE;
+    font-size: 2.5rem;
+    line-height: 200px;
+    text-align: center;
+  }
+  #h4{
+color: #EEEEEE;
+text-align: center;
+margin-top: -45px;
+font-size: 2rem;
+
+  }
+#p2{
+    text-align: center;
+    color: #EEEEEE;
+    font-size: 1.3rem;
+}
+#button1{
+text-align: center;
+background-color: #D3071B;
+color: white;
+height: 50px;
+}
+#p3{
+    text-align: center;
+}
+#p4{
+    color: #EEEEEE;
+    text-align: center;
+}
+#d3{
+background-image: url(../html/APJ/images/mockup1.png);
+height: 110vh;
+width: 100%;
+background-size: cover;
+}
+#d4{
+    height: 200vh;
+    background-color:white;
+}
+#h5{
+    text-align: center;
+    color:#252529;
+    font-size: 1.8rem;
+    margin-top:50px;
+}
+#p5{
+    color: #252529;
+    text-align: center;
+    font-size:1.2rem;
+    margin-top: 50px;
+}
+#p6{
+    text-align: center;
+
+}
+#button2{
+    background-color: #103063;
+    color: white;
+    height: 50px;
+}
+#d5{
+    background-image: url(../html/APJ/images/mockup2.png);
+    height: 150vh;
+    width: 100%;
+    background-repeat: no-repeat;
+   text-align: center;
+   margin-left:80px;
+}
+#div2{
+    
+   color:black;
+}
+img{
+  margin-top: -100px; 
+}
+#h6{
+    color:#EEEEEE;
+    margin-top: -300px;
+    text-align: center;
+    font-size: 2rem;
+}
+#p7{
+    color: #EEEEEE;
+    text-align: center;
+    font-size: 1.3rem;
+}
+#d6{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 250px 250px;
+}
+#img2{
+   margin-top: 150px;
+   margin-left: 80px;
+}
+#d9{
+    margin-top: 200px;
+    font-size:#333333 ;
+}
+#h7{
+    font-size: 1.5em;
+}
+#p8{
+    color: #333333;
+}
+#p9{
+    color: #103063;
+}
+#d10{
+  
+    background-color: #252529;
+    height: 30vh;
+    width: 100%;
+    display:flex;
+    justify-content: space-evenly;
+}
+.list{
+    
+   
+    /* text-align: center; */
+    font-size: 15px;
+    color: #EEEEEE;
+}
+ul{
+    margin-left: 30px;
+    color: #CCCCCC;
+    font-size: 12px;
+}
+li{
+    color: #CCCCCC; 
+    list-style-type: none;
+}
+#h8{
+  margin-left: 70px; 
+}
+#h8{
+    border-bottom:1px solid #EEEEEE;
+    padding: 15px 0;
+}
+.h{
+    color: #CCCCCC;
+}
+#d14{
+    background-color: #333333;
+    width: 100%;
+    height: 60px;
+    color: #EEEEEE;
+    margin-top: -18px;
+}
+#p10{
+    text-align: center;
+    line-height: 55px;
+    font-size: 14px;
+}
+
+
+
+
+
